@@ -54,10 +54,7 @@ To use the Evaluation Application, follow these steps:
 
 For detailed instructions on running the Evaluation Application, refer to the [User Manual](./user-manual.md).
 
-## Contributors
 
-- John Doe
-- Jane Smith
 
 ## License
 
